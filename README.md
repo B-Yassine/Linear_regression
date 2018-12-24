@@ -17,6 +17,6 @@ And the expected output for the  test set:
 
 ![test_set](salary_test.png)
 
-For more details:
+For more details check this link i found it very useful:
 
 https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86
